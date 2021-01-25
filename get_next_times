@@ -14,7 +14,7 @@
                         "indicator": "0",
                         "capacity": "",
                         "note": null,
-                        "is_valid": true,
+                        "is_valid": false,
                         "deliveryman_mobile": "",
                         "is_instant": 1,
                         "price": 19.39,
@@ -30,7 +30,7 @@
                         "delivery_time": 1611605949,
                         "name": null,
                         "end_time": 0,
-                        "instant_msg": "التوصيل خلال : 20-80 دقيقة"
+                        "instant_msg": "lkg خلال : 20-80 دقيقة"
                     },
                     {
                         "price_note": "",
